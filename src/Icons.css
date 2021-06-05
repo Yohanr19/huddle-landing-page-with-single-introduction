@@ -1,0 +1,15 @@
+.fab{
+    color: white;
+    justify-self: center;
+}
+:hover.fab{
+  color: var(--PrimarySoftMagenta);
+}
+#icons{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+    width: 40%;
+    margin: 1rem auto;
+    padding-bottom: 1rem;
+}

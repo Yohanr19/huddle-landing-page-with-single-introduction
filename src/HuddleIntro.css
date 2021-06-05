@@ -1,0 +1,15 @@
+.mockups {
+    width: 100%;
+    height: auto;
+  
+}
+.mockups-container{
+    margin-bottom: 1.5rem;
+}
+.logo {
+    width: 50%;
+    max-width: 250px;
+    height: auto;
+    padding: 0.2rem 0.5rem;
+    margin: 2rem 0;
+}
