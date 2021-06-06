@@ -1,7 +1,7 @@
 {
   "name": "huddle-landing-page-with-single-introduction",
   "version": "0.1.0",
-  "homepage": "https://yohanr19.github.io/huddle-landing-page-with-single-indtroduction",
+  "homepage": "https://yohanr19.github.io/huddle-landing-page-with-single-introduction",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.13.0",
